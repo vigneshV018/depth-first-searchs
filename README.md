@@ -92,6 +92,10 @@ F H <BR>
 ['0', '1', '2', '3', '4']
 
 <hr>
+<img width="1680" height="756" alt="image" src="https://github.com/user-attachments/assets/3c4c7b04-c411-4e19-8a4c-e0c9f444809b" />
+<hr>
+
+<hr>
 <h3>Result:</h3>
 <hr>
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
